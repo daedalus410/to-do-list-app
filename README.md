@@ -21,7 +21,7 @@ You will need a web browser to open the HTML file.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/daedalus410/todo-list-app.git
    cd todo-list-app
 
 2. Open index.html in your web browser.
